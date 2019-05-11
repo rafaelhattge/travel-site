@@ -12,4 +12,8 @@
 @import "modules/_section-title";
 @import "modules/_feature-item";
 @import "modules/_testimonial";
+<<<<<<< HEAD
 @import "modules/_site-footer";
+=======
+@import "modules/_sprite";
+>>>>>>> gulp-sprite
