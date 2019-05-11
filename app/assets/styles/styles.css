@@ -13,7 +13,13 @@
 @import "modules/_feature-item";
 @import "modules/_testimonial";
 <<<<<<< HEAD
+<<<<<<< HEAD
 @import "modules/_site-footer";
 =======
 @import "modules/_sprite";
 >>>>>>> gulp-sprite
+=======
+@import "modules/_site-footer";
+@import "modules/_site-header";
+@import "modules/_primary-nav";
+>>>>>>> header
