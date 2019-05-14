@@ -6,8 +6,12 @@
     margin-left: auto;
     margin-right: auto;
 
-    &--medium{
+    &--medium {
         max-width: 976px;
+    }
+
+    &--narrow {
+        max-width: 470px;
     }
 
     &--no-padding-until-medium {
